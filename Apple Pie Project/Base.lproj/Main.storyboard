@@ -447,7 +447,6 @@
                         <outletCollection property="letterButtons" destination="SRt-n2-670" collectionClass="NSMutableArray" id="yMP-1K-03L"/>
                         <outletCollection property="letterButtons" destination="f80-ZG-1JC" collectionClass="NSMutableArray" id="HEk-mb-122"/>
                         <outletCollection property="letterButtons" destination="5ha-Ts-Im6" collectionClass="NSMutableArray" id="vlg-4n-GsW"/>
-                        <outletCollection property="letterButtons" destination="vjb-S6-SvP" collectionClass="NSMutableArray" id="uKw-xq-itM"/>
                         <outletCollection property="letterButtons" destination="bNY-KB-miX" collectionClass="NSMutableArray" id="6ZQ-iQ-ITW"/>
                         <outletCollection property="letterButtons" destination="JWw-1y-kls" collectionClass="NSMutableArray" id="UQP-2t-DVO"/>
                         <outletCollection property="letterButtons" destination="t3Z-t8-af4" collectionClass="NSMutableArray" id="hdc-7s-FdN"/>
